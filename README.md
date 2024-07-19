@@ -11,3 +11,4 @@ https://osintframework.com/
 
 #dox
 https://github.com/lockfale/osint-framework?tab=readme-ov-file
+https://github.com/sherlock-project/sherlock
