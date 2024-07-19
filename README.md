@@ -15,6 +15,7 @@ https://osintframework.com/
 https://github.com/lockfale/osint-framework?tab=readme-ov-file
 https://github.com/sherlock-project/sherlock
 https://en.wikipedia.org/wiki/Google_hacking
+
 #record
 site record
 
