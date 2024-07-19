@@ -1,3 +1,5 @@
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 # osint-save
 learning and own code, tools
 
@@ -12,3 +14,13 @@ https://osintframework.com/
 #dox
 https://github.com/lockfale/osint-framework?tab=readme-ov-file
 https://github.com/sherlock-project/sherlock
+https://en.wikipedia.org/wiki/Google_hacking
+#record
+site record
+
+https://github.com/gildas-lormeau/SingleFile
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
