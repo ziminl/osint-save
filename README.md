@@ -7,14 +7,21 @@ learning and own code, tools
 https://mega.nz/folder/1GFRjJhA#aYrS5y3rie7zlgsxhi3reQ
 
 #sites
+
 https://intelx.io/
-https://osintframework.com/
+
+https://osintframework.com/ - https://github.com/lockfale/osint-framework?tab=readme-ov-file
 
 
 #dox
-https://github.com/lockfale/osint-framework?tab=readme-ov-file
+
 https://github.com/sherlock-project/sherlock
 https://github.com/qeeqbox/social-analyzer
+https://github.com/twintproject/twint
+https://github.com/instaloader/instaloader
+https://github.com/Datalux/Osintgram
+
+https://github.com/soxoj/maigret
 https://en.wikipedia.org/wiki/Google_hacking
 
 #record
@@ -22,8 +29,13 @@ site record
 
 https://github.com/gildas-lormeau/SingleFile
 
-#will move webcve
+record searcher
 
+https://github.com/s0md3v/Photon
+
+
+#will move webcve
+subdomain?
 https://github.com/yogeshojha/rengine
 and nessus
 
