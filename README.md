@@ -6,6 +6,12 @@ learning and own code, tools
 #course? what i see b4
 https://mega.nz/folder/1GFRjJhA#aYrS5y3rie7zlgsxhi3reQ
 
+#photo osint
+
+https://29a.ch/photo-forensics/#exif-meta-data
+
+https://fotoforensics.com/
+
 #sites
 
 https://intelx.io/
