@@ -5,7 +5,11 @@ learning and own code, tools
 
 #course? what i see b4
 https://mega.nz/folder/1GFRjJhA#aYrS5y3rie7zlgsxhi3reQ
-
+https://www.osintessentials.com/
+https://randhome.io/blog/2019/01/05/2...
+https://www.aware-online.com/en/osint...
+https://osintframework.com/
+https://www.osintcurio.us/
 #photo osint
 
 https://29a.ch/photo-forensics/#exif-meta-data
@@ -29,6 +33,19 @@ https://github.com/Datalux/Osintgram
 
 https://github.com/soxoj/maigret
 https://en.wikipedia.org/wiki/Google_hacking
+
+#dox tools 
+
+
+
+
+https://cleanup.pictures/
+https://instantusername.com/
+https://facecheck.id/
+https://pimeyes.com/en
+https://inteltechniques.com/
+https://twitter.com/search-advanced?l...
+
 
 #record
 site record
